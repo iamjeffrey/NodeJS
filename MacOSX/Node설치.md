@@ -30,3 +30,11 @@ Test it:
 nvm --version
 
 
+🔍 주요 포인트
+
+
+📝 최종
+
+
+
+
